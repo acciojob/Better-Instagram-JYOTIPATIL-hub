@@ -17,7 +17,7 @@
 }
 
 /* Background images for each div */
-#div1 { background-image: url('image1.jpg'); }
+#div1 { background-image: url("https://www.bing.com/images/search?view=detailV2&ccid=gnyp12sS&id=99C0E7ABD238EDE517C0EC95FF4C11DC3E98D68B&thid=OIP.gnyp12sSG6zIssjElvNiTwHaFs&mediaurl=https%3a%2f%2fimages.wondershare.com%2failab%2fimage2023%2fproducts%2fupscaler2.png&exph=1200&expw=1560&q=img+love+image+upscaler&simid=608006570738932311&FORM=IRPRST&ck=152C453C9E062FC751D5E9BB34BADB79&selectedIndex=1&itb=0"); }
 #div2 { background-image: url('image2.jpg'); }
 #div3 { background-image: url('image3.jpg'); }
 #div4 { background-image: url('image4.jpg'); }
